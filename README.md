@@ -10,3 +10,12 @@ for assignment B: 500 dragon images were collected and using annotation tool ann
 https://www.youtube.com/watch?v=n5GJIzp7Vhs
 
 https://www.youtube.com/watch?v=8v7YCVflywM
+
+
+My team:
+
+Dr. Rajesh   drpvrajeshkumar@gmail.com
+
+Dr. Mounika   duddukurimounika@gmail.com
+
+Vivek   krovvidivivek@gmail.com
